@@ -4,8 +4,21 @@ Projeto final da trilha **Santander 2026 — React Frontend** (DIO).
 
 Aplicação web de planejamento financeiro pessoal com formulário multi-step, diagnóstico via Google Gemini, histórico de simulações e chat com educador financeiro. Tudo roda no browser com persistência em `localStorage`.
 
-## Funcionalidades
+## Screenshots
 
+### Formulário de simulação
+
+![Formulário multi-step — Passo 1 de 6](imagens/formulario.png)
+
+### Resultados com insights e chat
+
+![Página de resultados com diagnóstico da IA e chat](imagens/resultados-chat.png)
+
+### Histórico de simulações
+
+![Histórico com metas salvas e opção de ver detalhes](imagens/historico.png)
+
+## Funcionalidades
 - Formulário multi-step com máscara monetária (BRL)
 - Tema claro/escuro com preferência salva
 - Diagnóstico financeiro personalizado via IA (Gemini)
